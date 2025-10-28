@@ -1,0 +1,10 @@
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\bin\Debug\aaroncocabancomat.exe.config
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\bin\Debug\aaroncocabancomat.exe
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\bin\Debug\aaroncocabancomat.pdb
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\obj\Debug\aaroncocabancomat.csproj.AssemblyReference.cache
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\obj\Debug\aaroncocabancomat.Form1.resources
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\obj\Debug\aaroncocabancomat.Properties.Resources.resources
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\obj\Debug\aaroncocabancomat.csproj.GenerateResource.cache
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\obj\Debug\aaroncocabancomat.csproj.CoreCompileInputs.cache
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\obj\Debug\aaroncocabancomat.exe
+C:\Users\cocaaltamirano.22042\source\repos\aaroncocabancomat\obj\Debug\aaroncocabancomat.pdb
